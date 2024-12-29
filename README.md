@@ -30,7 +30,7 @@ NestBucketWithCloudinary is a TypeScript-based project using the NestJS framewor
 
 ## Prerequisites
 
-- Node.js v16 or higher
+- Node.js v18 or higher
 - Yarn v1.22 or higher
 - Docker and Docker Compose (for Docker setup)
 
